@@ -1,7 +1,5 @@
-markdown---
-layout: home
-title: "🏰 Welcome to My Fairy Kingdom"
-subtitle: "Where magic, sparkles, and crowns live forever 🌸✨"
+"🏰 Welcome to My Blog"
+subtitle: "Where magic blooms forever 🌸✨"
 ---
 
 <div style="text-align: center; background-color: #FFF0F5; padding: 20px; border-radius: 20px; border: 3px dashed #FFB6C1; margin-bottom: 30px;">
