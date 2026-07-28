@@ -3,9 +3,6 @@ subtitle: "Where magic blooms forever 🌸✨"
 ---
 
   <p style="font-size: 30px; margin: 0;">👑🪞🪄🧚🏼‍♀️🎀</p>
-  <h2 style="color: #D81B60; font-family: 'Georgia', serif; font-style: italic;">Greetings, Adventurer!</h2>
-  <p style="color: #6A5ACD; font-size: 16px;">You have successfully crossed the enchanted bridge into <strong>Princessblog</strong>. Sit down, have some fairy tea, and enjoy my magical musings!</p>
+  <h2 style="color: #D81B60; font-family: 'Times New Roman', serif; font-style: italic;">Hi!!</h2>
+  <p style="color: #6A5ACD; font-size: 16px;">This is my blog! Please look around and enjoy!</p>
 </div>
-
-### 🔮 My Enchanted Scrolls (Latest Updates)
-Hello world! I am officially building a fairytale layout right here on GitHub pages. 
